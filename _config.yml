@@ -1,5 +1,5 @@
 # Site settings
-title: Hao Li Blog
+title: Hao Li
 SEOTitle: 李豪的博客 | Leo
 header-img: img/home-bg.jpg
 email: leo.t5@outlook.com
@@ -12,11 +12,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-# twitter_username:     huxpro
-# zhihu_username:     huxpro
+twitter_username:     linkinpark
+# zhihu_username:     leo-y21
 # weibo_username:     huxpro
 linkedin_username:    in/hao-li-14b646155/
-# facebook_username:  huxpro
+facebook_username:  Hao Li
 github_username:    Vida42
 
 
