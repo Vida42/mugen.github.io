@@ -1,9 +1,6 @@
-# HuxBlog Boilerplate
+# Hao Li Blog
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+##### This is the boilerplate of [Hao Li Blog](https://github.com/Vida42/Vida42.github.io), all documents is over there!
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
+#### [View Live Hao Li Blog &rarr;](https://Vida42.github.io)
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
