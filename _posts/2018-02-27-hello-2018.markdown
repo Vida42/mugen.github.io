@@ -1,0 +1,48 @@
+---
+layout:     post
+title:      "Welcome to LEO Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2018-02-27 23:36:00
+author:     "Leo"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “It starts with …… ”
+
+
+## 前言
+
+2019年，2月的尾巴，了却了一件去年9月开始想做，万圣节似乎就要开始做事。等真正拖到这周实现后发现，其实并没有想象中的那么难呐。
+
+又是一条往日验证过的经验，又是一次跌倒和重犯。
+
+其实我不太喜欢在互联网上过多暴露自己的信息。
+
+不过也许改变也好吧。
+
+---
+
+## 后记
+
+周一花了一天借用HUX的[模板](https://huangxuan.me/)，效果很好。就这样开始吧。
+
+till death do us apart, and it did
+
+come sudden like clouds, and it hid my sun,
+
+my truth heavier than imagined, a lid die-cast in lead
+
+on our lives we nourished
+
+and the days we cherished as kids
+
+we let them whizz on by, but when I rewind
+
+your smile is the only thing that comes to mind
+
+your smile is the only thing that shines
+
+
+—— Leo 后记于 2019.2.27
