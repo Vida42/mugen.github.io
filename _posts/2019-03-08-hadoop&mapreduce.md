@@ -3,7 +3,7 @@ layout:     post
 title:      "What is Hadoop?"
 subtitle:   " \"From Google Cloud to Hadoop\""
 date:       2019-03-08 23:38:00
-author:     "Leo"
+author:     "Mugen"
 header-img: "img/post-bg-mapreduce.jpg"
 tags:
     - Hadoop
@@ -37,7 +37,11 @@ tags:
 
 
 [1] https://www.meipian.cn/bpt63y5
+
 [2] https://blog.csdn.net/a6jishuren/article/details/81450283
+
 [3] https://zhidao.baidu.com/question/323886705.html
+
 [4] https://zhidao.baidu.com/question/387588585.html
+
 [5] [hadoop分布式存储&&分布式计算](https://blog.51cto.com/kmzsq/1683118)

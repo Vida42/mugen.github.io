@@ -3,7 +3,7 @@ layout:     post
 title:      "How to use Spark?"
 subtitle:   " \"Take it easy.\""
 date:       2019-03-09 00:12:00
-author:     "Leo"
+author:     "Mugen"
 header-img: "img/post-bg-spark.jpg"
 tags:
     - Spark

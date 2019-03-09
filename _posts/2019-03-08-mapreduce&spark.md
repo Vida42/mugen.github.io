@@ -3,7 +3,7 @@ layout:     post
 title:      "What is the difference between MapReduce and Spark?"
 subtitle:   " \"You are Neo, I'm matrix, and sometimes Agent Smith.\""
 date:       2019-03-08 23:42:00
-author:     "Leo"
+author:     "Mugen"
 header-img: "img/post-bg-mapreduce.jpg"
 tags:
     - MapReduce
@@ -18,10 +18,13 @@ MapReduce和Spark的区别是什么？
  - 知乎用户的回答
 
 
-作者：知乎用户
-链接：https://www.zhihu.com/question/53354580/answer/307863620
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+> 作者：知乎用户
+> 
+> 链接：https://www.zhihu.com/question/53354580/answer/307863620
+> 
+> 来源：知乎
+> 
+> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 首先大数据涉及两个方面：分布式存储系统和分布式计算框架。前者的理论基础是GFS。后者的理论基础为MapReduce。
 

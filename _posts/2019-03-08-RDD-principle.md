@@ -3,7 +3,7 @@ layout:     post
 title:      "Introduction to RDD(Resilient Distributed Datasets)"
 subtitle:   " \"Just a fundamental data structure of Spark.\""
 date:       2019-03-08 23:58:00
-author:     "Leo"
+author:     "Mugen"
 header-img: "img/post-bg-RDD.jpg"
 tags:
     - Spark

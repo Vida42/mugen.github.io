@@ -3,7 +3,7 @@ layout:     post
 title:      "大数据与Spark从入不了门到快入门"
 subtitle:   " \"I'm fine. FAQ\""
 date:       2019-03-08 23:10:00
-author:     "Leo"
+author:     "Mugen"
 header-img: "img/post-bg-bigdata-spark.jpg"
 tags:
     - Spark
@@ -21,25 +21,25 @@ tags:
 
 原文在此：[Hadoop, Storm, Samza, Spark, and Flink: Big Data Frameworks Compared](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared#apache-spark) by Justin Ellingwood
 
-## mapreduce
+## MapReduce
 
-- [x] DONE
+- [What is MapReduce](https://vida42.github.io/2019/03/08/mapreduce/)
 
-## hadoop与mapreduce
+## Hadoop与MapReduce
 
-- [x] DONE
+- [What is Hadoop?](https://vida42.github.io/2019/03/08/hadoop&mapreduce/)
 
-## hadoop与spark
+## MapReduce与Spark
 
-- [x] DONE
+- [What is the difference between MapReduce and Spark?](https://vida42.github.io/2019/03/08/mapreduce&spark/)
 
-## spark本身
+## Spark本身
 
-- [x] Spark简介
-- [x] RDD的设计与运行原理
-- [x] spark-install
+- [What is Apache Spark?](https://vida42.github.io/2019/03/09/spark/)
+- [Introduction to RDD(Resilient Distributed Datasets)](https://vida42.github.io/2019/03/08/RDD-principle/)
+- [How to use Spark?](https://vida42.github.io/2019/03/09/spark-install/)
 
-## spark与scala
+## Spark与Scala
 
 为什么类似Java：容易兼容jvm下的其余系统
 
@@ -52,11 +52,13 @@ tags:
 [Scala 是一门怎样的语言，具有哪些优缺点？](https://www.zhihu.com/question/19748408/answer/62527490)
 
 * 谈谈为什么上scala？
-> 因为在spark上跑程序，不用scala的话感觉就像在参加残奥会。[*知乎答主*](https://www.zhihu.com/question/25679583)
+> 因为在spark上跑程序，不用scala的话感觉就像在参加残奥会。
+> 
+> [*知乎答主*](https://www.zhihu.com/question/25679583)
 
-## 在spark上运行python
+## 在Spark上运行python
 
-## spark相关延伸
+## Spark相关延伸
 
-- [x] 大数据生态圈
-- [x] 分布式与集群的区别
+- [Anecdotal Bigdata Ecosphere](https://vida42.github.io/2019/03/09/bigdata-ecosphere/)
+- [Difference between Distributed and Cluster?](https://vida42.github.io/2019/03/09/distributed&cluster/)

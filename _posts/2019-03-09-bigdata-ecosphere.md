@@ -3,8 +3,8 @@ layout:     post
 title:      "Anecdotal Bigdata Ecosphere"
 subtitle:   " \"Sometimes maybe good sometimes maybe shit.\""
 date:       2019-03-09 10:16:00
-author:     "Leo"
-header-img: "img/post-bg-bigdata-ecosphere.png"
+author:     "Mugen"
+header-img: "img/post-bg-bigdata-ecosphere.jpg"
 tags:
     - Big Data
 ---
@@ -18,8 +18,11 @@ tags:
 
 
 > 作者：Xiaoyu Ma
+> 
 > 链接：https://www.zhihu.com/question/27974418/answer/38965760
+> 
 > 来源：知乎
+> 
 > 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 大数据本身是个很宽泛的概念，Hadoop生态圈（或者泛生态圈）基本上都是为了处理超过单机尺度的数据处理而诞生的。你可以把它比作一个厨房所以需要的各种工具。锅碗瓢盆，各有各的用处，互相之间又有重合。你可以用汤锅直接当碗吃饭喝汤，你可以用小刀或者刨子去皮。但是每个工具有自己的特性，虽然奇怪的组合也能工作，但是未必是最佳选择。

@@ -3,7 +3,7 @@ layout:     post
 title:      "Difference between Distributed and Cluster?"
 subtitle:   " \"body, head, limbs VS two men\""
 date:       2019-03-09 10:06:00
-author:     "Leo"
+author:     "Mugen"
 header-img: "img/post-bg-distributed&cluster.jpg"
 tags:
     - Cluster
@@ -21,8 +21,11 @@ tags:
 ## 从三种结构上来讲
 
 > 作者：大闲人柴毛毛
+> 
 > 链接：https://www.zhihu.com/question/20004877/answer/282033178
+> 
 > 来源：知乎
+> 
 > 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 三种结构：
@@ -62,10 +65,13 @@ tags:
 
 ## 从饭店到Q&A
 
-作者：张鹏飞
-链接：https://www.zhihu.com/question/20004877/answer/112124929
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+> 作者：张鹏飞
+> 
+> 链接：https://www.zhihu.com/question/20004877/answer/112124929
+> 
+> 来源：知乎
+> 
+> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 小饭店原来只有一个厨师，切菜洗菜备料炒菜全干。后来客人多了，厨房一个厨师忙不过来，又请了个厨师，两个厨师都能炒一样的菜，这两个厨师的关系是集群。为了让厨师专心炒菜，把菜做到极致，又请了个配菜师负责切菜，备菜，备料，厨师和配菜师的关系是分布式，一个配菜师也忙不过来了，又请了个配菜师，两个配菜师关系是集群
 
