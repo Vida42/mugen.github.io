@@ -4,7 +4,7 @@ title:      "Anecdotal Bigdata Ecosphere"
 subtitle:   " \"Sometimes maybe good sometimes maybe shit.\""
 date:       2019-03-09 10:16:00
 author:     "Leo"
-header-img: "img/post-bg-bigdata-ecosphere.jpg"
+header-img: "img/post-bg-bigdata-ecosphere.png"
 tags:
     - Big Data
 ---
