@@ -39,12 +39,14 @@ tags:
 然后得到三个链接，是讲这个算法的：
 
 [ALS（Alternating Least Squares）](https://blog.csdn.net/qq_33626989/article/details/82011481)
+
 [论文篇：Matrix Factorization Techniques for RS](https://zhuanlan.zhihu.com/p/28577447?group_id=881547532893851649)
+
 [矩阵分解（MATRIX FACTORIZATION）在推荐系统中的应用](https://blog.csdn.net/lissanwen/article/details/51214275)
 
 第二篇图文并茂的知乎专栏应该不错。原论文也下载了是彩色的耶。就都先不看了先把例子跑起来。
 
-哦对，在看5230讲推荐系统没的途中看到课程推荐用书[Mining of Massive Datasets](http://www.mmds.org/#book)，在YouTube还有位staford??的印度老师在讲这门课。在线MOOC貌似要本校生？算了先不研究了跑偏了……
+哦对，在看5230讲推荐系统没的途中看到课程推荐用书[Mining of Massive Datasets](http://www.mmds.org/#book)，在YouTube还有位stanford??的印度老师在讲这门课。在线MOOC貌似要本校生？算了先不研究了跑偏了……
 
 
 回到上面的[Collaborative Filtering - RDD-based API](https://spark.apache.org/docs/2.1.1/mllib-collaborative-filtering.html)，其中的Tutorial是a hands-on tutorial for personalized movie recommendation with spark.mllib.，但是链接打不开。找到一个AMPCamp的版本hands-on如下：[Movie Recommendation with MLlib](http://ampcamp.berkeley.edu/5/exercises/movie-recommendation-with-mllib.html)，想着要么从这个作业做起？？回Introduction，啧，要装spark并且还要有Java……
@@ -66,6 +68,9 @@ then I searched a lot:
 > [md集群(cluster)是啥](https://www.zhihu.com/question/20004877/answer/282033178)？
 > 
 > 有多台服务器提供相同的服务，每台服务器叫做一个节点，这些节点就构成了一个集群。
+> 
+> 更多详情见[Difference between Distributed and Cluster?](https://vida42.github.io/2019/03/09/distributed&cluster/)
+
 
 
 还有一份[简明Spark使用指南](http://www.voidcn.com/article/p-oyyjfixg-brm.html)，提到：**Apache Spark网站为所有api提供了一套良好的文档，并且Databricks网站使用各种技术和数据集提供了大量文档和非常有用的教程。多练习并实践!**
