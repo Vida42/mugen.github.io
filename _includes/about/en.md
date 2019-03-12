@@ -2,7 +2,7 @@
 
 Hi, I am Hao Li. I am currently pursuing an M.S. in Data Analytics Engineering at [Northeastern University](https://www.northeastern.edu/). Looking for Data Scientist or Software Development Engineer Internship in Summer 2019.
 
-👉 [My Resume](https://vida42.github.io/img/Resume_LiHao_4_2.pdf)
+👉 [My Resume](https://vida42.github.io/img/Resume_LiHao_6_1.pdf)
 
 Some of my projects, 👉 see [Portfolio](/portfolio)、[Github](http://github.com/Vida42).
 
