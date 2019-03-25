@@ -181,6 +181,15 @@ body, html {
 	background-size: 22px;
 }
 
+.i-pygame:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-pygame.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
 .i-skl:before {
 	content: "";
 	display: block;
