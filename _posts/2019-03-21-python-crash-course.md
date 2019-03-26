@@ -180,7 +180,7 @@ By convention, capitalized names refer to classes in Python.
 
 ## Inheritance
 
-> see code of TRY IT YOURSELF in [*HERE*](https://vida42.github.io/file/in-post/practice_0.py)
+> see code of TRY IT YOURSELF in [*HERE*](https://github.com/Vida42/Vida42.github.io/blob/master/file/in-post/practice_0.py)
 
 If the class you’re writing is a specialized version of another class you wrote, you can use *inheritance*. When one class inherits from another, it automatically takes on all the attributes and methods of the first class. The original class is called the *parent class*, and the new class is the *child class*.
 
@@ -264,7 +264,7 @@ favorite_languages['phil'] = 'python'
 
 Often, you’ll come to a point where your code will work, but you’ll recognize that you could improve the code by breaking it up into a series of functions that have specific jobs. This process is called `refactoring`. Refactoring makes your code cleaner, easier to understand, and easier to extend.
 
-> See the example in [*HERE*](https://vida42.github.io/file/in-post/practice_1.py)
+> See the example in [*HERE*](https://github.com/Vida42/Vida42.github.io/blob/master/file/in-post/practice_1.py)
 
 
 # 11. Testing Your Code
