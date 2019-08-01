@@ -4,3 +4,5 @@
 
 #### [View Live Hao Li Blog &rarr;](https://Vida42.github.io)
 
+Git is a version control system.
+Git is free software.
