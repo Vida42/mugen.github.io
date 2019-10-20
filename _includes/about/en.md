@@ -1,8 +1,8 @@
 > When life leaves us blind, love keeps us kind.
 
-Hi, I am Hao Li. I am currently pursuing an M.S. in Data Analytics Engineering at [Northeastern University](https://www.northeastern.edu/). Looking for Data Scientist or Software Development Engineer Internship in Summer 2019.
+Hi, I am Hao Li. I am currently pursuing an M.S. in Data Analytics Engineering at [Northeastern University](https://www.northeastern.edu/). Looking for Software Development Engineer Internship in Summer 2020.
 
-👉 [My Resume](https://vida42.github.io/file/Resume_LiHao_6_2.pdf)
+👉 [My Resume](https://vida42.github.io/file/Resume_HaoLi.pdf)
 
 Some of my projects, 👉 see [Portfolio](/portfolio)、[Github](http://github.com/Vida42).
 
