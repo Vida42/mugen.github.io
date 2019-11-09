@@ -178,6 +178,12 @@ By convention, capitalized names refer to classes in Python.
 
 *Class, methods(functions), instance, attributes*
 
+Making an object from a class is called instantiation, and you work with instances of a class.
+
+A function that's part of a class is a method. Everything you learned about functions applies to methods as well; the only practical difference for now is the way we'll call methods.
+
+Variables that are accessible through instances are called attributes.
+
 ## Inheritance
 
 > see code of TRY IT YOURSELF in [*HERE*](https://github.com/Vida42/Vida42.github.io/blob/master/file/in-post/practice_0.py)

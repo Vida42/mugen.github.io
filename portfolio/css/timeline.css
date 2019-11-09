@@ -154,12 +154,39 @@ body, html {
     background-size: 20px;
 }
 
+.i-flume:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-flume.png") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
+.i-kafka:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-kafka.png") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
 .i-matlab:before {
 	content: "";
 	display: block;
 	width: 40px;
 	height: 40px;
 	background: url("../images/logo-matlab.png") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
+.i-mongo:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-mongo.png") 50% 50% no-repeat;
 	background-size: 20px;
 }
 
@@ -188,6 +215,42 @@ body, html {
 	height: 40px;
 	background: url("../images/logo-pygame.png") 50% 50% no-repeat;
 	background-size: 22px;
+}
+
+.i-r:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-r.png") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
+.i-redis:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-redis.png") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
+.i-scala:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-scala.png") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
+.i-shiny:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-shiny.png") 50% 50% no-repeat;
+	background-size: 20px;
 }
 
 .i-skl:before {
