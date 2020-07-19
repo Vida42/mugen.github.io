@@ -1,6 +1,6 @@
 # Site settings
-title: Leo
-SEOTitle: Hao li's Blog | Leo
+title: Mugen
+SEOTitle: Heartbreak Motel
 header-img: img/home-bg.jpg
 email: leo.t5@outlook.com
 description: "What is the smallest piece of matter. Why do we remember the past and not the future. And why there is a universe."
@@ -17,7 +17,7 @@ RSS: false
 # zhihu_username:     None
 # weibo_username:     None
 email_username:     leo.t5@outlook.com
-linkedin_username:    in/hao-li-14b646155/
+# linkedin_username:    in/xxx/
 # facebook_username:  Hao Li
 github_username:    Vida42
 
@@ -79,7 +79,7 @@ ga_domain: vida42.github.io
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "读万卷书，行万里路。"
-sidebar-avatar: /img/avatar-leo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-mugen.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

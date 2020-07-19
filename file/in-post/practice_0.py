@@ -1,11 +1,12 @@
-# #!/usr/bin/env python
-# # -*- coding: utf-8 -*-
-# # @Date    : 2019-03-23 12:23:38
-# # @Author  : Amano
-# # @Version : $Id$
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Date    : 2019-03-23 12:23:38
+# @Author  : Amano
+# @Version : $Id$
 
 '''
 try it yourself 9-6
+'''
 
 class Restaurant():
     """A class representing a restaurant."""
@@ -43,10 +44,11 @@ iceream1 = IceCreamStand('The Big One', 'ice_cream', ['vanilla', 'chocolate', 'b
 iceream1.describe_restaurant()
 iceream1.display_info()
 
-'''
+
 
 '''
 try it yourself 9-7
+'''
 
 class User():
     """A class representing a user."""
@@ -85,10 +87,11 @@ admin1.privileges = ['can reset passwords',
 admin1.greet_user()
 admin1.show_privileges()
 
-'''
+
 
 '''
 try it yourself 9-8
+'''
 
 class Privileges():
     """A class to store an admin's privileges."""
@@ -121,5 +124,3 @@ eric_privileges = [
     ]
 eric.privileges.privileges = eric_privileges
 eric.privileges.show_privileges()
-
-'''
