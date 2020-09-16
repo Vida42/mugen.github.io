@@ -2,7 +2,7 @@
 
 Hi, I am Mugen. I am currently pursuing an M.S. in Data Analytics Engineering at [Northeastern University](https://www.northeastern.edu/). Looking for Software Development Engineer / Data Engineer New Grad in Fall 2020.
 
-👉 [My Resume](https://vida42.github.io/file/Resume_HaoLi.pdf)
+👉 [My Resume](https://vida42.github.io/file/Resume.pdf)
 
 Some of my projects, 👉 see [Portfolio](/portfolio)、[Github](http://github.com/Vida42).
 
