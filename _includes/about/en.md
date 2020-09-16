@@ -1,6 +1,6 @@
 > When life leaves us blind, love keeps us kind.
 
-Hi, I am Mugen. I am currently pursuing an M.S. in Data Analytics Engineering at [Northeastern University](https://www.northeastern.edu/). Looking for Software Development Engineer New Grad in Fall 2020.
+Hi, I am Mugen. I am currently pursuing an M.S. in Data Analytics Engineering at [Northeastern University](https://www.northeastern.edu/). Looking for Software Development Engineer / Data Engineer New Grad in Fall 2020.
 
 👉 [My Resume](https://vida42.github.io/file/Resume_HaoLi.pdf)
 
