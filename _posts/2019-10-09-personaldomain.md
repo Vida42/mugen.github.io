@@ -29,7 +29,7 @@ tags:
 
 在腾讯云[我的域名](https://console.cloud.tencent.com/domain)内添加两条解析。之后需要等数十分钟生效。
 
-![](https://img-blog.csdn.net/20180316094421797?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3UwMTIzNDg3NzQ=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![如图](/img/in-post/personal-domain.png)
 
 GIthub方面需在`github pages`的仓库根目录里加上`CNAME`文件，在内写上域名（无需http头和www）。或者在`github pages`的仓库`Settings`直接设置`Custom domain`为自己的域名。
 
