@@ -145,13 +145,32 @@ body, html {
 }
 
 /** Venders Logo **/
+
+.i-aws:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-aws.png") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
 .i-bash:before {
 	content: "";
-    display: block;
-    width: 40px;
-    height: 40px;
-    background: url("../images/logo-bash.png") 50% 50% no-repeat;
-    background-size: 20px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-bash.png") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
+.i-django:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-django.png") 50% 50% no-repeat;
+	background-size: 20px;
 }
 
 .i-flume:before {
@@ -160,6 +179,15 @@ body, html {
 	width: 40px;
 	height: 40px;
 	background: url("../images/logo-flume.png") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
+.i-java:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-java.png") 50% 50% no-repeat;
 	background-size: 20px;
 }
 
@@ -199,6 +227,15 @@ body, html {
 	background-size: 20px;
 }
 
+.i-play:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-play.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
 .i-python:before {
 	content: "";
 	display: block;
@@ -223,6 +260,15 @@ body, html {
 	width: 40px;
 	height: 40px;
 	background: url("../images/logo-r.png") 50% 50% no-repeat;
+	background-size: 20px;
+}
+
+.i-react:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-react.png") 50% 50% no-repeat;
 	background-size: 20px;
 }
 
@@ -262,6 +308,15 @@ body, html {
 	background-size: 22px;
 }
 
+.i-spring:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-spring.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
 .i-spark:before {
 	content: "";
 	display: block;
@@ -277,6 +332,15 @@ body, html {
 	width: 40px;
 	height: 40px;
 	background: url("../images/logo-tensorflow.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
+.i-vue:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-vue.png") 50% 50% no-repeat;
 	background-size: 22px;
 }
 
